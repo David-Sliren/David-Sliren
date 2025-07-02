@@ -1,0 +1,190 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --fondo-principal: url(https://i.pinimg.com/736x/4b/29/4d/4b294d78a69843b5b1b73e42065c81a7.jpg);
+}
+
+body {
+  background-image: var(--fondo-principal);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100vh;
+}
+
+main {
+  background-color: rgba(0, 0, 0, 0);
+  -webkit-backdrop-filter: blur(5px);
+          backdrop-filter: blur(5px);
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  z-index: 1;
+}
+main::before {
+  position: absolute;
+  top: 0;
+  content: "";
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: -1;
+}
+main .carrusel {
+  background-color: rgb(244, 0, 0);
+  width: 700px;
+  height: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  z-index: 100;
+  transition: 1s ease;
+  mix-blend-mode: overlay;
+}
+main .carrusel::before {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  border-radius: 30px;
+  background-image: url(https://i.pinimg.com/originals/b2/6a/ac/b26aac9e27b62fa97df88df0f1d9ab85.gif);
+  background-position: center;
+  background-size: cover;
+  background-repeat: repeat;
+  filter: hue-rotate(180deg) blur(2px);
+  rotate: 180deg;
+  inset: 0;
+  z-index: -1;
+}
+main .carrusel::after {
+  position: absolute;
+  top: 0;
+  content: "";
+  width: 100%;
+  height: 100%;
+  background-color: rgba(1, 1, 1, 0.5);
+  z-index: -1;
+}
+main .carrusel #atras {
+  position: absolute;
+  top: "";
+  left: -28px;
+  bottom: "";
+  right: "";
+  background: linear-gradient(90deg, #E5325F, 45%, #180406);
+  -webkit-backdrop-filter: blur(5px);
+          backdrop-filter: blur(5px);
+  color: white;
+  font-weight: bolder;
+  font-size: 20px;
+  width: 40px;
+  height: 40px;
+  border-radius: 20px;
+  border: 2px solid gray;
+  transition: transform 1s ease;
+  transform: translateX("");
+}
+main .carrusel #atras:active {
+  position: absolute;
+  top: "";
+  left: "";
+  bottom: "";
+  right: "";
+  background: linear-gradient(90deg, #E5325F, 45%, #180406);
+  -webkit-backdrop-filter: blur(5px);
+          backdrop-filter: blur(5px);
+  color: white;
+  font-weight: bolder;
+  font-size: 20px;
+  width: 40px;
+  height: 40px;
+  border-radius: 20px;
+  border: 2px solid gray;
+  transition: transform 1s ease;
+  transform: translateX(-20px);
+  transition: transform 0.3s linear;
+}
+main .carrusel #adelante {
+  position: absolute;
+  top: "";
+  left: "";
+  bottom: "";
+  right: -28px;
+  background: linear-gradient(90deg, #E5325F, 45%, #180406);
+  -webkit-backdrop-filter: blur(5px);
+          backdrop-filter: blur(5px);
+  color: white;
+  font-weight: bolder;
+  font-size: 20px;
+  width: 40px;
+  height: 40px;
+  border-radius: 20px;
+  border: 2px solid gray;
+  transition: transform 1s ease;
+  transform: translateX("");
+}
+main .carrusel #adelante:active {
+  position: absolute;
+  top: "";
+  left: "";
+  bottom: "";
+  right: "";
+  background: linear-gradient(90deg, #E5325F, 45%, #180406);
+  -webkit-backdrop-filter: blur(5px);
+          backdrop-filter: blur(5px);
+  color: white;
+  font-weight: bolder;
+  font-size: 20px;
+  width: 40px;
+  height: 40px;
+  border-radius: 20px;
+  border: 2px solid gray;
+  transition: transform 1s ease;
+  transform: translateX(20px);
+  transition: transform 0.3s linear;
+}
+main .carrusel .elementos {
+  background-color: rgba(1, 1, 1, 0.5);
+  width: 90%;
+  height: 80%;
+  border-radius: 30px;
+  transition: transform 1s ease;
+  position: relative;
+  -webkit-backdrop-filter: blur(30px);
+          backdrop-filter: blur(30px);
+}
+main .carrusel .elementos:hover {
+  transform: perspective(500px) rotateX(-5deg) translateY(20px);
+  transition: transform 0.8s ease;
+  filter: hue-rotate(180deg);
+}
+main .carrusel .elementos:hover img {
+  transform: translateY(50px);
+  transition: 0.8s ease;
+}
+main .carrusel .elementos img {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  -o-object-fit: fill;
+     object-fit: fill;
+  border-radius: 20px;
+  transition: opacity 1s ease-in-out, transform 2s ease-in-out;
+}
+main .carrusel .elementos img:not(:first-child) {
+  opacity: 0;
+  transition: 1s ease;
+}
+main .giro {
+  transform: rotateY(360deg) translateY(30px);
+  transition: 1s ease;
+}/*# sourceMappingURL=styles.css.map */
