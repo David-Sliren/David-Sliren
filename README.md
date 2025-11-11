@@ -47,15 +47,15 @@
     
 - **Libary**:
 <br>
-_***React***_
+***React***
 <br>
-_***React-Native***_
+***React-Native***
 <br>
-_***TailwindCss***_
+***TailwindCss***
 <br>
-_***FireBase***_
+***FireBase***
 <br>
-_***Gsap***_
+***Gsap***
 <br>
 
 <br>
