@@ -3,7 +3,7 @@
    <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
 </div>
 
-<h1 align="center"><b>Hi , I'm David Salazar </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm David Sliren </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 
 
@@ -21,7 +21,7 @@
 
 <br>
 
-Hi, my name is David Sliren. I'm a self-taught front-end web developer with one year of experience, specializing in creating modern, dynamic, and responsive interfaces using React and Tailwind CSS. I'm passionate about transforming ideas into functional, clean, and accessible experiences.
+Hi, I'm a self-taught front-end web developer with one year of experience, specializing in creating modern, dynamic, and responsive interfaces using React and Tailwind CSS. I'm passionate about transforming ideas into functional, clean, and accessible experiences.
 
 I'm looking for a junior position where I can apply my skills, learn from a professional team, and continue growing in a collaborative and stimulating environment.
 
