@@ -21,11 +21,14 @@
 
 <br>
 
-Hi, I'm a self-taught front-end web developer with one year of experience, specializing in creating modern, dynamic, and responsive interfaces using React and Tailwind CSS. I'm passionate about transforming ideas into functional, clean, and accessible experiences.
+Hello, I am a self-taught front-end developer with a year and a half of experience, specialized in React and React Native, with experience building modern, responsive,
+and high-performance web and mobile applications. I work with Tailwind CSS, TanStack Query, and Expo,
+focusing on clean code, solid architecture, and great user experience. Passionate about learning and
+building real-world solutions.
 
 I'm looking for a junior position where I can apply my skills, learn from a professional team, and continue growing in a collaborative and stimulating environment.
 
-I'm open to opportunities as a front-end or mobile developer, both remotely and on-site.
+I'm open to opportunities as a front-end or mobile developer, both remotely and in person.
 
 <br>
 
