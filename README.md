@@ -43,7 +43,7 @@ I'm open to opportunities as a front-end or mobile developer, both remotely and 
 - ✔ Ask me about anything, I am happy to help
 - Outside tech, 💜 I love see anime, 📖 Learn new things, 🎵 listening to music, and 🎮 playing videogames.
 - 📫 Reach out to me at: jhojansalazar79@gmail.com
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/14AkjRMPSZh601nzSlk9_8KpXejRXGrC9/view?usp=sharing)
 
 <br><br>
 
@@ -67,11 +67,11 @@ I'm open to opportunities as a front-end or mobile developer, both remotely and 
 
   
 	![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  	![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  	![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 	![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react)
 	![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 	![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-	![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-	![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
 <br>
 
 - **Softwares and Tools**:
@@ -97,7 +97,7 @@ I'm open to opportunities as a front-end or mobile developer, both remotely and 
 <ul>
 
 <li>
-<a href="https://linkedin.com/in/0xabdulkhalid" target="_blank">
+<a href="https://www.linkedin.com/in/davidsliren/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  DavidSliren-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
@@ -105,7 +105,7 @@ I'm open to opportunities as a front-end or mobile developer, both remotely and 
 <br>
 
 <li>
-<a href="https://twitter.com/" target="_blank">
+<a href="https://x.com/D_Sliren" target="_blank">
 <img src="https://img.shields.io/badge/twitter:  DavidSliren-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
 </a>
 </li>
