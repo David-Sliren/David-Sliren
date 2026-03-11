@@ -3,7 +3,7 @@
    <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
 </div>
 
-<h1 align="center"><b>Hi , I'm David Sliren </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm David Salazar </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 
 
@@ -16,37 +16,56 @@
 	
 ## **About me**
 
+Full Stack JavaScript Developer focused on building web and mobile applications.
 
+<br/>
 
+- ✨ Personal web site: [Portfolio](https://david-sliren.github.io/Mi-Portafolio/)
 
-<br>
+- 📫 Email: jhojansalazar79@gmail.com
 
-Hello, I am a self-taught front-end developer with a year and a half of experience, specialized in React and React Native, with experience building modern, responsive,
-and high-performance web and mobile applications. I work with Tailwind CSS, TanStack Query, and Expo,
-focusing on clean code, solid architecture, and great user experience. Passionate about learning and
-building real-world solutions.
+- 📄 I’m currently open for a new job opportunity, this is [my resume](https://drive.google.com/file/d/14AkjRMPSZh601nzSlk9_8KpXejRXGrC9/view?usp=sharing)
 
-I'm looking for a junior position where I can apply my skills, learn from a professional team, and continue growing in a collaborative and stimulating environment.
-
-I'm open to opportunities as a front-end or mobile developer, both remotely and in person.
-
-<br>
-
-
-
-- A passionate Self-taught Front-end developer
-- Personal website [link](https://david-sliren.github.io/Mi-Portafolio/)
-- 🌱 I’m currently learning ...
-  	<br>
-	
-  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-  
 - 👥 I’m looking forward to collaborate on open source projects.
+
 - ✔ Ask me about anything, I am happy to help
-- Outside tech, 💜 I love see anime, 📖 Learn new things, 🎵 listening to music, and 🎮 playing videogames.
-- 📫 Reach out to me at: jhojansalazar79@gmail.com
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/14AkjRMPSZh601nzSlk9_8KpXejRXGrC9/view?usp=sharing)
+
+<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+
+## ⭐ Featured Projects
+
+### RENPENTAIN
+Mobile shopping management app built with React Native.
+
+Features:
+- Modular state architecture using Zustand slices
+- Global cart system
+- Independent supermarket bags
+- Quick shopping module
+
+Repo:
+https://github.com/David-Sliren/Renpentain
+
+---
+
+### Futbol-Mania
+Full Stack football web application.
+
+Features:
+- REST API backend with Node.js and Express
+- External API integration
+- Data transformation before sending to frontend
+
+Repo:
+https://github.com/David-Sliren/Futbol-Mania
+
+<br/>
+
+## 🌱 Currently Learning
+
+![Postgresql](https://img.shields.io/badge/postgresql-gray?style=for-the-badge&logo=postgresql)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 <br><br>
 
@@ -57,35 +76,49 @@ I'm open to opportunities as a front-end or mobile developer, both remotely and 
 
 <p align="center">
 
-- **Languages**:
+- **Frontend**:
 
 
+  	![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+	![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+	![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+	![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+	![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
   	![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    	![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
-  	![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 <br>   
     
-- **Frameworks and Libary**:
+- **Mobile**:
 
   
-	![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   	![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   	![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 	![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react)
-	![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-	![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-	![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 <br>
 
-- **Softwares and Tools**:
+- **Backend**:
+
+
+	![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+	![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+<br>
+
+- **State Management**:
+
+  
+	![Zustand](https://img.shields.io/badge/zustand-%2320232a.svg?style=for-the-badge&logo=zustand&logoColor=%2361DAFB)
+<br>
+
+- **Tools**:
   
 
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-  	![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-  	![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220)
   	![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+  	![Vercel](https://img.shields.io/badge/vercel-333.svg?style=for-the-badge&logo=vercel&logoColor=white)
+  	![Render](https://img.shields.io/badge/Render-grey?style=for-the-badge&logo=render)
+  	![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
   	![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 <br>
@@ -94,7 +127,8 @@ I'm open to opportunities as a front-end or mobile developer, both remotely and 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## 📫 Contact
+
 <br>
 <div align='left'>
 
