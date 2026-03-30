@@ -24,7 +24,7 @@ Full Stack JavaScript Developer focused on building web and mobile applications.
 
 - 📫 Email: jhojansalazar79@gmail.com
 
-- 📄 I’m currently open for a new job opportunity, this is [my resume](https://drive.google.com/file/d/14AkjRMPSZh601nzSlk9_8KpXejRXGrC9/view?usp=sharing)
+- 📄 I’m currently open for a new job opportunity, this is [my resume](https://drive.google.com/file/d/1JfAf0K3NrQeUPSd349hRcM5jQQs-5sdR/view?usp=sharing)
 
 - 👥 I’m looking forward to collaborate on open source projects.
 
