@@ -22,7 +22,7 @@ Full Stack JavaScript Developer focused on building web and mobile applications.
 
 - ✨ Personal web site: [Portfolio](https://slirendev.vercel.app/)
 
-- 📫 Email: jhojansalazar79@gmail.com
+- 📫 Email: jhojansalazardev@gmail.com
 
 - 📄 I’m currently open for a new job opportunity, this is [my resume](https://drive.google.com/file/d/1JfAf0K3NrQeUPSd349hRcM5jQQs-5sdR/view?usp=sharing)
 
