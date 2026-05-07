@@ -20,7 +20,7 @@ Full Stack JavaScript Developer focused on building web and mobile applications.
 
 <br/>
 
-- ✨ Personal web site: [Portfolio](https://david-sliren.github.io/Mi-Portafolio/)
+- ✨ Personal web site: [Portfolio](https://slirendev.vercel.app/)
 
 - 📫 Email: jhojansalazar79@gmail.com
 
@@ -44,6 +44,9 @@ Features:
 - Independent supermarket bags
 - Quick shopping module
 
+Demo: 
+https://sliren-store.vercel.app/applications/Renpentain
+
 Repo:
 https://github.com/David-Sliren/Renpentain
 
@@ -56,6 +59,9 @@ Features:
 - REST API backend with Node.js and Express
 - External API integration
 - Data transformation before sending to frontend
+
+Demo: 
+https://david-sliren.github.io/Futbol-Mania/
 
 Repo:
 https://github.com/David-Sliren/Futbol-Mania
