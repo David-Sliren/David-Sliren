@@ -1,17 +1,20 @@
 
 <div align="center">
+   <img width=100% src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif" />
+</div>
+<br/>
+<h1 align="center" ><b>Hi , I'm David Salazar </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!--  -->
+<div align="center">
    <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
 </div>
 
-<h1 align="center"><b>Hi , I'm David Salazar </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->
-
+<!-- <div align="center">
+<img height=250px width=250px src="https://camo.githubusercontent.com/e6dc8023f24fbcadf56029f79c94d398484e7d40684b9d1b8a91e71e069ecab3/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a457861574a3361544e6b5a47553164584e724d4459346454457864486c736332453362476c6d635730334e7a6732656e6f78595764314d795a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f5538524c67614746697758735a63385955772f67697068792e676966">	
+</div> -->
 
 
 <br>
-
-
-
 
 	
 ## **About me**
@@ -33,40 +36,7 @@ Full Stack JavaScript Developer focused on building web and mobile applications.
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
-## ⭐ Featured Projects
 
-### RENPENTAIN
-Mobile shopping management app built with React Native.
-
-Features:
-- Modular state architecture using Zustand slices
-- Global cart system
-- Independent supermarket bags
-- Quick shopping module
-
-Demo: 
-https://sliren-store.vercel.app/applications/Renpentain
-
-Repo:
-https://github.com/David-Sliren/Renpentain
-
----
-
-### Futbol-Mania
-Full Stack football web application.
-
-Features:
-- REST API backend with Node.js and Express
-- External API integration
-- Data transformation before sending to frontend
-
-Demo: 
-https://david-sliren.github.io/Futbol-Mania/
-
-Repo:
-https://github.com/David-Sliren/Futbol-Mania
-
-<br/>
 
 ## 🌱 Currently Learning
 
