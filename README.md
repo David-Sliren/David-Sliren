@@ -37,7 +37,7 @@ I'm passionate about continuous learning, solving complex problems, and improvin
 
 - 📫 Email: jhojansalazardev@gmail.com
 
-- 📄 I’m currently open for a new job opportunity, this is [my resume](https://drive.google.com/file/d/1JfAf0K3NrQeUPSd349hRcM5jQQs-5sdR/view?usp=sharing)
+- 📄 I’m currently open for a new job opportunity, this is [my resume](https://drive.google.com/file/d/17XoOq4ZPa28ZTG6fuP99mSVizc9q2suA/view?usp=sharing)
 
 - 👥 I’m looking forward to collaborate on open source projects.
 
@@ -149,7 +149,7 @@ I'm passionate about continuous learning, solving complex problems, and improvin
 <br>
 
 <li>
-<a href="mailto:jhojansalazar79@gmail.com" target="_blank">
+<a href="mailto:jhojansalazardev@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  DavidSliren-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
