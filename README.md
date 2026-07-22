@@ -49,7 +49,7 @@ I'm passionate about continuous learning, solving complex problems, and improvin
 
 
 ## 🌱 Currently Learning
-
+![Python](https://img.shields.io/badge/phyton-black?style=for-the-badge&logo=python)
 ![Postgresql](https://img.shields.io/badge/postgresql-black?style=for-the-badge&logo=postgresql)
 
 <br><br>
