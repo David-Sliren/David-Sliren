@@ -37,7 +37,7 @@ I'm passionate about continuous learning, solving complex problems, and improvin
 
 - 📫 Email: jhojansalazardev@gmail.com
 
-- 📄 I’m currently open for a new job opportunity, this is [my resume](https://drive.google.com/file/d/17XoOq4ZPa28ZTG6fuP99mSVizc9q2suA/view?usp=sharing)
+- 📄 I’m currently open for a new job opportunity, this is [my resume](https://drive.google.com/file/d/1H6m_5hq8wcIY_DQB6VNyjgWqpX8VMVWe/view?usp=sharing))
 
 - 👥 I’m looking forward to collaborate on open source projects.
 
