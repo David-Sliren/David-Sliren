@@ -49,7 +49,6 @@ I'm passionate about continuous learning, solving complex problems, and improvin
 
 
 ## 🌱 Currently Learning
-![Python](https://img.shields.io/badge/phyton-black?style=for-the-badge&logo=python)
 ![Go](https://img.shields.io/badge/go-black?style=for-the-badge&logo=go)
 ![Postgresql](https://img.shields.io/badge/postgresql-black?style=for-the-badge&logo=postgresql)
 
@@ -68,6 +67,8 @@ I'm passionate about continuous learning, solving complex problems, and improvin
 
 	![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
   	![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+	![Python](https://img.shields.io/badge/phyton-black?style=for-the-badge&logo=python)
+  	
 
 <br>   
 
@@ -93,8 +94,9 @@ I'm passionate about continuous learning, solving complex problems, and improvin
 - **Backend**:
 
 
-	![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 	![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+	![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+	![Fastapi](https://img.shields.io/badge/Fastapi?style=for-the-badge&logo=fastapi)
 	![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 	![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white)
 <br>
@@ -134,15 +136,7 @@ I'm passionate about continuous learning, solving complex problems, and improvin
 
 <li>
 <a href="https://www.linkedin.com/in/davidsliren/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  DavidSliren-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="https://x.com/D_Sliren" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  DavidSliren-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/linkedin:  DavidSliren-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=link&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
@@ -150,7 +144,23 @@ I'm passionate about continuous learning, solving complex problems, and improvin
 
 <li>
 <a href="mailto:jhojansalazardev@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  DavidSliren-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/jhojansalazardev@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt=email style="margin-bottom: 5px;" />
+</a>
+</li>
+
+<br>
+
+<li>
+<a href="https://x.com/slirendev" target="_blank">
+<img src="https://img.shields.io/badge/slirendev-%2300acee.svg?color=000&style=for-the-badge&logo=X&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+</a>
+</li>
+
+<br>
+
+<li>
+<a href="https://www.tiktok.com/@sliren.dev" target="_blank">
+<img src="https://img.shields.io/badge/sliren.dev-%23EA4335.svg?color=333&style=for-the-badge&logo=tiktok&logoColor=white" alt=tiktok style="margin-bottom: 5px;" />
 </a>
 </li>
 	
