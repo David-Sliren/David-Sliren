@@ -23,8 +23,6 @@ Since discovering programming, I've fallen in love with the freedom to create. I
 
 I especially enjoy designing applications that feel organized, fluid, and pleasant to use. I'm interested in how a well-thought-out interface, animation, or architecture can make technology feel less cold and more like a natural extension of people.
 
-I currently develop web and mobile applications using React, Next.js, React Native, and Node.js. I've worked on projects with modular architectures, decoupled state systems using Zustand, and client-server structured applications with Express and MongoDB.
-
 I'm passionate about continuous learning, solving complex problems, and improving every detail of the projects I build, both technically and visually. My goal is to create applications that not only work well but also convey personality, elegance, and a genuine experience for their users.
 
 <br/>
